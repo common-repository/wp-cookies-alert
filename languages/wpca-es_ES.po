@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Cookies Alert v1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-11-01 15:42:39+0000\n"
+"Last-Translator: aleapp <aleappco@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: wpca-front.php:82
+#@ wpca
+msgid "Ok"
+msgstr "Continuar"
+
+#: wpca-admin.php:19
+#@ wpca
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Usted no tiene permisos suficientes para acceder a esta página."
+
+#: wpca-admin.php:39
+#@ wpca
+msgid "Message"
+msgstr "Mensaje"
+
+#: wpca-admin.php:121
+#@ wpca
+msgid "Top"
+msgstr "Arriba"
+
+#: wpca-admin.php:123
+#@ wpca
+msgid "Bottom"
+msgstr "Abajo"
+
+#: wpca-admin.php:128
+#@ wpca
+msgid "Use template tag instead"
+msgstr "Utilizar etiqueta de plantilla"
+
+#: wpca-admin.php:136
+#@ wpca
+msgid "Reset"
+msgstr "Restablecer"
+
+#: wpca-admin.php:139
+#@ wpca
+msgid "If checked all the options above will be reset after updating."
+msgstr "Si deja marcado todas las opciones se restablecerán despues de actualizar."
+
+#: wpca-admin.php:144
+#@ wpca
+msgid "Save changes"
+msgstr "Actualizar"
+
+#: wpca-admin.php:148
+#@ wpca
+msgid "Error occured. Failed to get options."
+msgstr "Ha ocurrido un error. No se ha podido recuperar las opciones."
+
+#: wpca-admin.php:23
+#: wpca-admin.php:155
+#@ wpca
+msgid "WP Cookies Alert"
+msgstr "WP Cookies Alert"
+
+#: wpca-admin.php:26
+#@ wpca
+msgid "Options reset."
+msgstr "Opciones restablecidas."
+
+#: wpca-admin.php:29
+#@ wpca
+msgid "Options saved."
+msgstr "Opciones actualizadas."
+
+#: wpca-admin.php:77
+#: wpca-admin.php:86
+#: wpca-admin.php:95
+#: wpca-admin.php:104
+#: wpca-admin.php:113
+#@ wpca
+msgid "Enter a hexadecimal color value."
+msgstr "Entra un valor hexadecimal."
+
+#: wpca-admin.php:36
+#@ wpca
+msgid "Content &amp; titles"
+msgstr "Contenido y títulos"
+
+#: wpca-admin.php:70
+#@ wpca
+msgid "Styling"
+msgstr "Estilos"
+
+#: wpca-admin.php:122
+#@ wpca
+msgid "Top fixed"
+msgstr "Arriba fijo"
+
+#: wpca-admin.php:122
+#@ wpca
+msgid "may be overlapped by the Toolbox if user is logged in"
+msgstr "puede ser solapado por la barra de heramientas si el usuario está registrado"
+
+#: wpca-admin.php:124
+#@ wpca
+msgid "Bottom fixed"
+msgstr "Abajo fijo"
+
+#: wpca-admin.php:134
+#@ wpca
+msgid "Reset to default"
+msgstr "Retablecer opciones predeterminadas"
+
+#: wpca-admin.php:131
+#@ wpca
+msgid "You can use template tag wpca_print_box() to insert alert box in you theme's template."
+msgstr "Puede usar etiqueta wpca_print_box() para insertar la caja de alerta en la plantilla."
+
+#: wpca-admin.php:47
+#@ wpca
+msgid "More link - Title"
+msgstr "Enlace Más - Título"
+
+#: wpca-admin.php:55
+#@ wpca
+msgid "More link - URL"
+msgstr "Enlace Más - URL"
+
+#: wpca-admin.php:64
+#@ wpca
+msgid "OK button - Title"
+msgstr "Botón Continuar- Título"
+
+#: wpca-admin.php:73
+#@ wpca
+msgid "Message - Color"
+msgstr "Mensaje - Color"
+
+#: wpca-admin.php:82
+#@ wpca
+msgid "More link - Color"
+msgstr "Enlace Más - Color"
+
+#: wpca-admin.php:91
+#@ wpca
+msgid "OK button - Color"
+msgstr "Botón Continuar - Color"
+
+#: wpca-admin.php:100
+#@ wpca
+msgid "OK button - Background color"
+msgstr "Botón Continuar - Color del fondo"
+
+#: wpca-admin.php:109
+#@ wpca
+msgid "Alert box - Background color"
+msgstr "Caja de alerta - Color del fondo"
+
+#: wpca-admin.php:118
+#@ wpca
+msgid "Alert box - Position"
+msgstr "Caja de alerta - Posición"
+
+#: wpca-admin.php:59
+#@ wpca
+msgid "URL where visitors can learn more about your web site's cookies."
+msgstr "URL donde los usuarios pueden leer más sobre los cookie de su sitio."
+
